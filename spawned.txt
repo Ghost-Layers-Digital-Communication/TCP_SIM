@@ -1,0 +1,14 @@
++------------------------------------------------------------------------------+
+| SHELL: SPAWN MANAGER                                                         |
++------------------------------------------------------------------------------+
+| STATUS: SHELL SPAWNED SUCCESSFULLY                                           |
+| USER: OPERATOR-01                                                            |
+| SHELL TYPE: /bin/bash (interactive)                                          |
+| PTY ALLOCATED: YES                                                           |
+| SESSION PID: 4281                                                            |
+| CONN ID: #CNX-77-BRAVO                                                       |
+| TIME: 2025-10-26 12:03:05 EST                                                |
++------------------------------------------------------------------------------+
+| NOTE: Interactive shell established. Maintain OPSEC — avoid persistent files |
+|       or services. Log keystrokes only when authorized.                      |
++------------------------------------------------------------------------------+

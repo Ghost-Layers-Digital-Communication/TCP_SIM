@@ -1,0 +1,13 @@
++------------------------------------------------------------------------------+
+| NETWORK: CONNECTION MANAGER                                                  |
++------------------------------------------------------------------------------+
+| STATUS: CONNECTED                                                            |
+| TARGET IP: 192.168.254.77                                                    |
+| TARGET HOST: sentinel-node-07                                                |
+| PORT: 22 (SSH)  |  LATENCY: 42 ms                                            |
+| CONN ID: #CNX-77-BRAVO                                                       |
+| TIME: 2025-10-26 12:00:12 EST                                                |
++------------------------------------------------------------------------------+
+| NOTE: Connection established. Maintain stealth—avoid noisy probes.           |
+|       Use authenticated channels only. All sessions are logged.              |
++------------------------------------------------------------------------------+
