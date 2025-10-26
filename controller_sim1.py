@@ -4,7 +4,7 @@
 
 import socket, threading, time, os, sys
 
-PI_IP = "192.168.254.140" # set your Pi IP
+PI_IP = "xxxxxxxxxxx" # set your Pi IP
 PORT = 5150
 PASSWORD = "SECRET"
 RECV_TIMEOUT = 0.2
@@ -83,3 +83,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
