@@ -4,7 +4,7 @@
 
 import socket, threading, os, time
 
-HOST = "192.168.254.140"
+HOST = "xxxxxxxxxxxxxx"
 PORT = 5150
 EXPECTED_PASSWORD = "SECRET"
 SCRIPT_DIR = os.path.dirname(os.path.realpath(__file__))
@@ -143,4 +143,5 @@ def main():
             t.start()
 
 if __name__ == "__main__":
+
     main()
